@@ -1,0 +1,25 @@
+
+CLEAN UP THE CODE
+
+
+put libraries folder into final hand-in!
+
+
+
+
+
+
+
+
+
+
+
+{	16383	,
+	738	,
+	674	,
+	3822	,
+	0	,
+	3758	,
+	2722	,
+	2786	,  
+	16383	}; 

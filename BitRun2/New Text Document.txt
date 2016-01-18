@@ -1,0 +1,12 @@
+hole in the wall=right
+cave=down
+
+three obstacles
+every 10 obstacles=speed++
+
+
+nextObstacle(){
+	a=random(1-3)
+	switch(a):
+		1: obstacle=1;
+}

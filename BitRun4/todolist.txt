@@ -1,0 +1,42 @@
+make warnings take only 1/2 of the lines by calling an array into Warn(char[])
+get rid of useless libraries
+LIMIT OF 5 LIVES
+SHOW SCORE BY ADDING STUF TO CHAR[] ARRAY
+CLEAN UP THE CODE
+GET A BATTERY??
+
+
+put libraries folder into final hand-in!
+
+SET THRESHOLD BEFORE HAND-IN
+PUT NAMES BEFORE HAND-IN
+
+
+
+
+
+
+
+
+
+
+PROGMEM const uint16_t Fall[9]=
+{	4391	,
+	4433	,
+	4471	,
+	4433	,
+	14161	,
+	0	,
+	256	,
+	1016	,
+	256	};
+PROGMEM const uint16_t Run[9]=
+{	3758	,
+	2722	,
+	2786	,
+	0	,
+	64	,
+	64	,
+	496	,
+	224	,
+	64	},

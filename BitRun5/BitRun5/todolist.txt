@@ -1,0 +1,31 @@
+make warnings take only 1/2 of the lines by calling an array into Warn(char[])
+get rid of useless libraries
+LIMIT OF 5 LIVES
+SHOW SCORE BY ADDING STUF TO CHAR[] ARRAY
+CLEAN UP THE CODE
+GET A BATTERY??
+RESET ALL GAME STATE VARIABLES AFTER LOSING
+
+put libraries folder into final hand-in!
+
+SET THRESHOLD BEFORE HAND-IN
+PUT NAMES BEFORE HAND-IN
+
+
+
+
+
+
+
+
+
+
+{	16383	,
+	738	,
+	674	,
+	3822	,
+	0	,
+	3758	,
+	2722	,
+	2786	,  
+	16383	}; 
